@@ -1,0 +1,51 @@
+id,name,location
+1,Iron Man,New York
+2,Spider-Man,Queens
+3,Thor,Asgard
+4,Hulk,Bruce Banner's Lab
+5,Captain America,Brooklyn
+6,Black Widow,Moscow
+7,Hawkeye,Iowa
+8,Black Panther,Wakanda
+9,Doctor Strange,Santum Sanctorum
+10,Ant-Man,San Francisco
+11,Superman,Metropolis
+12,Batman,Gotham City
+13,Wonder Woman,Themyscira
+14,Flash,Central City
+15,Aquaman,Atlantis
+16,Cyborg,Detroit
+17,Green Lantern,Coast City
+18,Shazam,Fawcett City
+19,Green Arrow,Star City
+20,Martian Manhunter,Martian Base
+21,Deadpool,Canada
+22,Star-Lord,Milano
+23,Gamora,Zehoberi
+24,Drax,Kylos
+25,Rocket Raccoon,Halfworld
+26,Groot,Planet X
+27,Loki,Asgard
+28,Scarlet Witch,Sokovia
+29,Vision,Sokovia
+30,Winter Soldier,Brooklyn
+31,Falcon,Harlem
+32,Wasp,San Francisco
+33,Nebula,Luphom
+34,Mantis,Planet X
+35,Nick Fury,Unknown
+36,Maria Hill,Unknown
+37,Pepper Potts,New York
+38,Jane Foster,Asgard
+39,Peggy Carter,London
+40,War Machine,San Francisco
+41,Valkyrie,Asgard
+42,Korg,New Asgard
+43,Heimdall,Asgard
+44,Odin,Asgard
+45,Hela,Asgard
+46,Ego,Living Planet
+47,Yondu,Centauri-IV
+48,Ronan,Hala
+49,Nova Prime,Xandar
+50,Red Skull,Unknown
